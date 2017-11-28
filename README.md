@@ -8,3 +8,7 @@
 - delete the scaffold.scss in app/assets/stylesheets
 * check rails -j= to add angular/react
 * rails new my_api --api (to not include frontend)
+- rails g controller Pages home about contact
+
+###MVC - Model - View - Controller
+

@@ -9,6 +9,9 @@
 * check rails -j= to add angular/react
 * rails new my_api --api (to not include frontend)
 - rails g controller Pages home about contact
+- rails g model Skill title:string percent_utilized:integer
+* I can interact with database through rails -c 
 
+git push origin controller-generator
 ###MVC - Model - View - Controller
 
